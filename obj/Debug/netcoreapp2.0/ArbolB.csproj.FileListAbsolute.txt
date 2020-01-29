@@ -1,0 +1,11 @@
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\bin\Debug\netcoreapp2.0\ArbolB.deps.json
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\bin\Debug\netcoreapp2.0\ArbolB.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\bin\Debug\netcoreapp2.0\ArbolB.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\bin\Debug\netcoreapp2.0\ArbolB.dll
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\bin\Debug\netcoreapp2.0\ArbolB.pdb
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\obj\Debug\netcoreapp2.0\ArbolB.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\obj\Debug\netcoreapp2.0\ArbolB.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\obj\Debug\netcoreapp2.0\ArbolB.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\obj\Debug\netcoreapp2.0\ArbolB.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\obj\Debug\netcoreapp2.0\ArbolB.dll
+C:\Users\Rodrigo\Desktop\ED2\Pruebas\ArbolB\obj\Debug\netcoreapp2.0\ArbolB.pdb
